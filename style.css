@@ -1,7 +1,10 @@
 p{
-    color: red;
-    background-color: blue;
+    color: rgb(112, 8, 8);
+    background-color: lightslategray;
 }
-h{
-    color: blanchedalmond;
+h1{
+    color: rgb(81, 233, 228);
+}
+h2{
+    color: chartreuse;
 }
